@@ -7,7 +7,7 @@
         <Button x:Name="but_arr_gen" Content="Генерация массива из 10 чисел" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="246" Height="27" Click="but_arr_gen_Click"/>
         <Button x:Name="but1" Content="Задание 1" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="121" Click="but1_Click"/>
         <Button x:Name="but4" Content="Задание 4" HorizontalAlignment="Left" Margin="135,42,0,0" VerticalAlignment="Top" Width="121" Click="but4_Click"/>
-        <Button x:Name="but5" Content="Задание 5" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Width="121" Click="but5_Click" IsEnabled="False"/>
+        <Button x:Name="but5" Content="Задание 5" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Width="121" Click="but5_Click"/>
         <Button Content="Задание 7" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_2" IsEnabled="False"/>
         <Button Content="Задание 9" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_3" IsEnabled="False"/>
         <Button x:Name="but11" Content="Задание 11" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" Width="121" Click="but11_Click" IsEnabled="False"/>
