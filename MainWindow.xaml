@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lab_3-7" Height="286" Width="525">
+    <Grid Height="254" VerticalAlignment="Top">
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="228" Margin="257,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Foreground="#FFFF7400" Background="Black" IsReadOnly="True" FontFamily="Century Gothic" Text="Задания 1-3 надходятся в Л.Р. 1.  " HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"/>
+        <Button x:Name="but_arr_gen" Content="Генерация массива из 10 чисел" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="246" Height="27" Click="but_arr_gen_Click"/>
+        <Button x:Name="but1" Content="Задание 1" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="121" Click="but1_Click"/>
+        <Button x:Name="but4" Content="Задание 4" HorizontalAlignment="Left" Margin="135,42,0,0" VerticalAlignment="Top" Width="121" Click="but4_Click"/>
+        <Button x:Name="but5" Content="Задание 5" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Width="121" Click="but5_Click"/>
+        <Button Content="Задание 7" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_2"/>
+        <Button Content="Задание 9" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_3"/>
+        <Button x:Name="but11" Content="Задание 11" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" Width="121" Click="but11_Click"/>
+        <Button x:Name="but6" Content="Задание 6" HorizontalAlignment="Left" Margin="135,67,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_1"/>
+        <Button x:Name="but8" Content="Задание 8" HorizontalAlignment="Left" Margin="135,92,0,0" VerticalAlignment="Top" Width="121" Click="but8_Click"/>
+        <Button x:Name="but10" Content="Задание 10" HorizontalAlignment="Left" Margin="135,117,0,0" VerticalAlignment="Top" Width="122" Click="but10_Click"/>
+        <Button x:Name="but12" Content="Задание 12" HorizontalAlignment="Left" Margin="135,142,0,0" VerticalAlignment="Top" Width="122" Click="but12_Click"/>
+        <Button x:Name="but13" Content="Задание 13" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="121" Click="but13_Click"/>
+        <Button x:Name="but15" Content="Задание 15" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" Width="121" Click="but15_Click"/>
+        <Button x:Name="but14" Content="Задание 14" HorizontalAlignment="Left" Margin="135,167,0,0" VerticalAlignment="Top" Width="122" Click="but14_Click"/>
+        <Button x:Name="but16" Content="Задание 16" HorizontalAlignment="Left" Margin="135,192,0,0" VerticalAlignment="Top" Width="122" Click="but16_Click"/>
+        <DockPanel HorizontalAlignment="Left" Height="100" LastChildFill="False" Margin="367,374,0,-90" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
