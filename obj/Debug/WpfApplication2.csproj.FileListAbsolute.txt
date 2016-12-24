@@ -15,3 +15,6 @@ C:\Users\Fernandes\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfAppl
 D:\Downloads\3-7_full\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
 D:\Downloads\3-7_full\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
 D:\Downloads\3-7_full\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+F:\Технология программирования\3-7_full\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+F:\Технология программирования\3-7_full\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+F:\Технология программирования\3-7_full\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
