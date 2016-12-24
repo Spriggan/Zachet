@@ -18,7 +18,7 @@
         <Button x:Name="but13" Content="Задание 13" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="121" Click="but13_Click" IsEnabled="False"/>
         <Button x:Name="but15" Content="Задание 15" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" Width="121" Click="but15_Click" IsEnabled="False"/>
         <Button x:Name="but14" Content="Задание 14" HorizontalAlignment="Left" Margin="135,167,0,0" VerticalAlignment="Top" Width="122" Click="but14_Click" IsEnabled="False"/>
-        <Button x:Name="but16" Content="Задание 16" HorizontalAlignment="Left" Margin="135,192,0,0" VerticalAlignment="Top" Width="122" Click="but16_Click" IsEnabled="False"/>
+        <Button x:Name="but16" Content="Задание 16" HorizontalAlignment="Left" Margin="135,192,0,0" VerticalAlignment="Top" Width="122" Click="but16_Click"/>
         <DockPanel HorizontalAlignment="Left" Height="100" LastChildFill="False" Margin="367,374,0,-90" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
