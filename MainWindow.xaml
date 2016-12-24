@@ -13,7 +13,7 @@
         <Button x:Name="but11" Content="Задание 11" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" Width="121" Click="but11_Click" IsEnabled="False"/>
         <Button x:Name="but6" Content="Задание 6" HorizontalAlignment="Left" Margin="135,67,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_1" IsEnabled="False"/>
         <Button x:Name="but8" Content="Задание 8" HorizontalAlignment="Left" Margin="135,92,0,0" VerticalAlignment="Top" Width="121" Click="but8_Click"/>
-        <Button x:Name="but10" Content="Задание 10" HorizontalAlignment="Left" Margin="135,117,0,0" VerticalAlignment="Top" Width="122" Click="but10_Click" IsEnabled="False"/>
+        <Button x:Name="but10" Content="Задание 10" HorizontalAlignment="Left" Margin="135,117,0,0" VerticalAlignment="Top" Width="122" Click="but10_Click"/>
         <Button x:Name="but12" Content="Задание 12" HorizontalAlignment="Left" Margin="135,142,0,0" VerticalAlignment="Top" Width="122" Click="but12_Click" IsEnabled="False"/>
         <Button x:Name="but13" Content="Задание 13" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="121" Click="but13_Click" IsEnabled="False"/>
         <Button x:Name="but15" Content="Задание 15" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" Width="121" Click="but15_Click" IsEnabled="False"/>
